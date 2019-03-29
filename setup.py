@@ -11,7 +11,7 @@ setuptools.setup(
     description="A package to interact with the google reverse image search service",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/infobiac/RevImg",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
