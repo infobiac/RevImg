@@ -13,6 +13,7 @@ This library attempts to fix these issues. For the most part, this library is ve
 Initialization is simple:
 
 ```
+from RevImg import RevImg
 ri = RevImg()
 ```
 You then have access to three methods. 

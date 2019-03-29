@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-your-username",
-    version="0.0.1",
+    name="RevImg",
+    version="0.0.2",
     author="Christophe Rimann",
     author_email="infobiac1@gmail.com",
     description="A package to interact with the google reverse image search service",

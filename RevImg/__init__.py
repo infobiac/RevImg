@@ -1,1 +1,1 @@
-name = "RevImg"
+from .RevImg import RevImg
